@@ -1,6 +1,6 @@
 # PBL1 – Maximum Flow on Network G
 
-![C++](https://img.shields.io/badge/C++-17-blueviolet)
+![C](https://img.shields.io/badge/C-23-blueviolet)
 ![Platform](https://img.shields.io/badge/Platform-Desktop-green)
 ![Status](https://img.shields.io/badge/Status-Completed-yellow)
 
@@ -19,8 +19,8 @@ The project focuses on:
 * Step-by-step visual execution of flow algorithms
 
 The project is developed by a **2-member team**, including:
-- Trương Quang Đạt (102240304)
-- Nguyễn Hải Long (102240318)
+- Trương Quang Đạt 
+- Nguyễn Hải Long 
 
 **Instructor:** Ts. Phạm Công Thắng
 
