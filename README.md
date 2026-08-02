@@ -89,8 +89,9 @@ After the build completes, run the generated `.exe` file.
 
 ## 📸 Demo / Screenshot
 
-<img width="471" height="291" alt="image" src="https://github.com/user-attachments/assets/5349a0f6-1477-4dc4-b103-51651d36b937" />
-> Graphical interface for algorithm selection and network building.
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/5349a0f6-1477-4dc4-b103-51651d36b937" />
+
+ Graphical interface for algorithm selection and network building.
 
 ---
 
